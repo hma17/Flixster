@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The required user stories were not extremely challenging because the walkthrough videos were helpful. However when I began doing the stretch goals, I reached a ferw obstacles. For example, I enjoy working on design and layout, but designing the app was a very iterative process because I have trouble with constrait layout. However, the user guide on CodePath was useful and I was able to make the app have a ncie asthetic with the time I had available. 
 
 ## Open-source libraries used
 
